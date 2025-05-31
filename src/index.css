@@ -1,0 +1,69 @@
+.w-20{
+  width:  20%;
+}
+.w-30{
+  width: 30%;
+}
+.insta-txt{
+  width: 100px;
+}
+.bi{
+  margin-right: 10px;
+}
+.story{
+  height: 80px;
+  padding: 5px;
+}
+
+.dp{
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 2px;
+  margin-bottom: 5px;
+
+
+}
+.image{
+  width: 400px;
+  height: 300px;
+}
+.uname{
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.suggestion{
+  width: 80%;
+}
+.suggestion .dp{
+  margin-top: 0px;
+}
+
+.suggestion h5{
+  font-size: 16px;
+}
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+}
+.story_dp{
+  width: 55px;
+}
+
+.story_border {
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+  padding: 3px; /* thickness of border */
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.story_dp {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid white; /* inner white border */
+  object-fit: cover;
+}

@@ -1,0 +1,156 @@
+ { 
+    "posts" : [ 
+        {
+    "id": 1,
+    "user": {
+      "user_id": 101,
+      "username": "john_doe",
+      "profile_picture": "src/assets/pexels-1.jpg"
+    },
+    "image" : "src/assets/pexels-1.jpg",
+    "caption": "Enjoying the sunset 🌅 #nature #relax",
+    "likes" : 128,
+    "comments": [
+        {
+            "user" : "alice_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "john_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "james_wonder",
+            "comment" : "wow! Amazing shot!"
+        }
+     
+    ],
+    "timesstamp" : "2025-04-29T14:45:00Z"
+    
+  },
+  {
+    "id": 2,
+    "user": {
+      "user_id": 102,
+      "username": "john_doe",
+      "profile_picture": "src/assets/pexels-2.jpg"
+    },
+    "image" : "src/assets/pexels-2.jpg",
+    "caption": "Enjoying the sunset 🌅 #nature #relax",
+    "likes" : 128,
+    "comments": [
+        {
+            "user" : "alice_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "john_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "james_wonder",
+            "comment" : "wow! Amazing shot!"
+        }
+     
+    ],
+    "timesstamp" : "2025-04-29T14:45:00Z"
+    
+  },
+  {
+    "id": 3,
+    "user": {
+      "user_id": 103,
+      "username": "john_doe",
+      "profile_picture": "src/assets/pexels-3.jpg"
+    },
+    "image" : "src/assets/pexels-3.jpg",
+    "caption": "Enjoying the sunset 🌅 #nature #relax",
+    "likes" : 128,
+    "comments": [
+        {
+            "user" : "alice_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "john_wonder",
+            "comment" : "wow! Amazing shot!"
+        },
+        {
+            "user" : "james_wonder",
+            "comment" : "wow! Amazing shot!"
+        }
+     
+    ],
+    "timesstamp" : "2025-04-29T14:45:00Z"
+    
+  }
+] ,
+"profile" : {
+    "user_id": 101,
+      "username": "john_doe",
+      "profile_picture": "src/assets/pexels-1.jpg"
+
+},
+
+"suggestion" : [
+    {
+        "id": 101,
+        "username": "_doe",
+        "profile_picture": "src/assets/pexels-1.jpg"
+      },
+      {
+        "id": 102,
+        "username": "john_doe",
+        "profile_picture": "src/assets/pexels-2.jpg"
+      },
+      {
+        "id": 103,
+        "username": "james_doe",
+        "profile_picture": "src/assets/pexels-3.jpg"
+      }
+      ,
+      {
+        "id": 104,
+        "username": "john_doe",
+        "profile_picture": "src/assets/pexels-2.jpg"
+      },
+      {
+        "id": 105,
+        "username": "james_doe",
+        "profile_picture": "src/assets/pexels-3.jpg"
+      }
+
+],
+"story" : [ 
+  {
+"id": 1,
+"user": {
+"user_id": 101,
+"username": "john_doe",
+"profile_picture": "src/assets/chilli-peppers.jpg"
+},
+"image" : "/src/assets/image1.jpg"
+
+
+},
+{
+"id": 2,
+"user": {
+"user_id": 102,
+"username": "David_koe",
+"profile_picture": "src/assets/carrots.jpg"
+},
+"image" : "/src/assets/image2.jpg"
+},
+{
+"id": 3,
+"user": {
+"user_id": 103,
+"username": "Kayal_vigi",
+"profile_picture": "src/assets/cucumber.jpg"
+},
+"image" : "/src/assets/image3.jpg"
+}
+]
+
+}
